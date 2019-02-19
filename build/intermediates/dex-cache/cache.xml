@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\student\.android\build-cache\70743f524e1230bdb6e8c4f2eb006529e01b7cf8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\student\Desktop\WiFiDirectDemo\app\build\intermediates\pre-dexed\debug\classes_8319e546854083cbff38e3b1083dbadb37f3ac56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\student\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\student\Desktop\WiFiDirectDemo\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_ff84697264439c542f40e848793de142e39a0183.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\student\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\student\Desktop\WiFiDirectDemo\app\build\intermediates\pre-dexed\debug\common-1.0.0_5d2d926f533de9f7128f32a0cc97048638c5d510.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\student\.android\build-cache\1e2e65d8ec63efdade2601316873c5d2fc593398\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\student\Desktop\WiFiDirectDemo\app\build\intermediates\pre-dexed\debug\classes_a908110051a526dfaef6ebd5774c93bab86e7344.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\student\.android\build-cache\2c27ab445bd8f5bc1a9e6532d67e472318ffc7bd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\student\Desktop\WiFiDirectDemo\app\build\intermediates\pre-dexed\debug\classes_a72cde2fd6abbeb3b9155886761a9ab664db5ba5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\student\.android\build-cache\0e0ba97fa77869972404bbe7a819f18d204ff036\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\student\Desktop\WiFiDirectDemo\app\build\intermediates\pre-dexed\debug\classes_44ae9bbdadd4ff91765bdd851990dd29c62daf29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\student\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\student\Desktop\WiFiDirectDemo\app\build\intermediates\pre-dexed\debug\common-1.0.0_1d8a52c312fafcb9d4f3f1e7836d16e791b5409e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\student\.android\build-cache\7d42f2e3da481c65cce816d909d4b522b64ed5d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\student\Desktop\WiFiDirectDemo\app\build\intermediates\pre-dexed\debug\classes_e12e34b5dbe04e7df32b5cdaed945ec1ea9f13bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\student\.android\build-cache\9c12079dd624827ad37aa521c1cb7e083af26e32\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\student\Desktop\WiFiDirectDemo\app\build\intermediates\pre-dexed\debug\classes_151857aba227f2fba83ffce1ceaf0d0fec61344c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\student\.android\build-cache\7529aaba4fdb8d8b4e24a6937ab5df04da296458\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\student\Desktop\WiFiDirectDemo\app\build\intermediates\pre-dexed\debug\classes_2d7dab1ff6644800adb8392be464e1e189c72291.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\student\.android\build-cache\98f3b31c77db28b1ed0c3fef79f8a896722e9ae8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\student\Desktop\WiFiDirectDemo\app\build\intermediates\pre-dexed\debug\classes_c6c2e1ba5ae262745c8d7ec8b5ff443d2e71b37d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\student\.android\build-cache\bb09a91cce61fb71af8c3e125f2e60fde2216eba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\student\Desktop\WiFiDirectDemo\app\build\intermediates\pre-dexed\debug\classes_4d1966828f28203c85144e875aebd74a3d41e08c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\student\.android\build-cache\81d682ef43b77679a97d9dd37c58618139a7f7d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\student\Desktop\WiFiDirectDemo\app\build\intermediates\pre-dexed\debug\classes_f4499cecba155a214a7d1c754032e1640e1b16b8.jar" />
+    </item>
+
+</items>
